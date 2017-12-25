@@ -18,7 +18,7 @@
 
   Visit the left branch, then the current node and the right branch.
 
-	```Java
+	```
 	void inOrderTraversal(TreeNode node) {
 	  if (node != null) {
 	    inOrderTraversal(node.left);
