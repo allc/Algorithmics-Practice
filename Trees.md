@@ -59,3 +59,7 @@
      / \
     2   3
   ```
+
+## Binary Heaps
+
+## Tries (Prefix Trees)
